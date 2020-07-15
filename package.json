@@ -1,0 +1,19 @@
+{
+  "name": "rura_rss",
+  "version": "1.0.0",
+  "description": "RSS webhook for RuRanobe Discord server",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node test.js",
+    "bot": "node bot.js"
+  },
+  "author": "SaLapus",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "rss-parser": "^3.7.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
