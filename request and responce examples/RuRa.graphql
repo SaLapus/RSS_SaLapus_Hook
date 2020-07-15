@@ -1,0 +1,132 @@
+query Book($url: String) {
+    project(project: { fullUrl: $url }) {
+        id
+        title
+        titles(
+            langs: ["jp", "cn", "romaji", "translit", "pinyin", "en", "ru", "*"]
+        ) {
+            lang
+            value
+            __typename
+        }
+        issueStatus
+        translationStatus
+        lastUpdate
+        url
+        franchiseNovel
+        franchiseSpinOff
+        franchiseSS
+        franchiseManga
+        franchiseAnime
+        franchiseWeb
+        oneVolume
+        covers {
+            thumbnail(width: 240)
+            url
+            __typename
+        }
+        persons(
+            langs: ["ru", "en", "*"]
+            roles: [
+                "author"
+                "illustrator"
+                "original_story"
+                "original_design"
+            ]
+        ) {
+            role
+            name {
+                firstName
+                lastName
+                __typename
+            }
+            __typename
+        }
+        genres {
+            id
+            type
+            nameRu
+            nameEng
+            __typename
+        }
+        tags {
+            id
+            type
+            nameRu
+            nameEng
+            __typename
+        }
+        annotation {
+            text
+            __typename
+        }
+        subprojects {
+            content {
+                id
+                title
+                volumes {
+                    content {
+                        url
+                        externalUrl
+                        file
+                        title
+                        type
+                        shortName
+                        status
+                        statusHint
+                        chapters {
+                            url
+                            __typename
+                        }
+                        __typename
+                    }
+                    __typename
+                }
+                __typename
+            }
+            __typename
+        }
+        requisites {
+            title
+            qiwi
+            wmr
+            wmu
+            wmz
+            wme
+            wmb
+            wmg
+            wmk
+            wmx
+            yandex
+            showYandexMoneyButton
+            showYandexCardButton
+            showYandexMobileButton
+            paypal
+            paypalButtonId
+            card
+            bitcoin
+            patreonUrl
+            patreonBePatronUserId
+            __typename
+        }
+        updates {
+            content {
+                type
+                showTime
+                description
+                url
+                title
+                updated
+                shortUpdated
+                sectionId
+                projectId
+                volumeId
+                chapterId
+                main
+                __typename
+            }
+            __typename
+        }
+        __typename
+    }
+}

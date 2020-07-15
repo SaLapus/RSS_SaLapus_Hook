@@ -1,0 +1,1314 @@
+{
+    "data": {
+        "project": {
+            "id": 28,
+            "title": "Проблемные дети приходят из другого мира, верно?",
+            "titles": [{
+                    "lang": "jp",
+                    "value": "問題児たちが異世界から来るそうですよ?",
+                    "__typename": "Title"
+                },
+                {
+                    "lang": "romaji",
+                    "value": "Mondaiji tachi ga isekai kara kuru soudesu yo",
+                    "__typename": "Title"
+                },
+                {
+                    "lang": "en",
+                    "value": "Problem Children are Coming from Another World, Aren't They?",
+                    "__typename": "Title"
+                },
+                {
+                    "lang": "ru",
+                    "value": "Проблемные дети приходят из другого мира, верно?",
+                    "__typename": "Title"
+                }
+            ],
+            "issueStatus": "active",
+            "translationStatus": "active",
+            "lastUpdate": "2020-03-13T17:55:30Z",
+            "url": "mtikk",
+            "franchiseNovel": "12 томов",
+            "franchiseSpinOff": "4 тома(“Last Embryo”) + сборник (1-12тома)",
+            "franchiseSS": null,
+            "franchiseManga": "2 адаптации",
+            "franchiseAnime": "1 сезон",
+            "franchiseWeb": null,
+            "oneVolume": false,
+            "covers": [{
+                    "thumbnail": "//ruranobe.ru/images/thumb/e/e1/MTIKK_v01_a.jpg/240px-MTIKK_v01_a.jpg",
+                    "url": "//ruranobe.ru/images/e/e1/MTIKK_v01_a.jpg",
+                    "__typename": "Image"
+                },
+                {
+                    "thumbnail": "//ruranobe.ru/images/thumb/2/21/MTIKK_v02_a.jpg/240px-MTIKK_v02_a.jpg",
+                    "url": "//ruranobe.ru/images/2/21/MTIKK_v02_a.jpg",
+                    "__typename": "Image"
+                },
+                {
+                    "thumbnail": "//ruranobe.ru/images/thumb/f/fc/MTIKK_v03_a.jpg/240px-MTIKK_v03_a.jpg",
+                    "url": "//ruranobe.ru/images/f/fc/MTIKK_v03_a.jpg",
+                    "__typename": "Image"
+                },
+                {
+                    "thumbnail": "//ruranobe.ru/images/thumb/7/71/MTIKK_v12_a.jpg/240px-MTIKK_v12_a.jpg",
+                    "url": "//ruranobe.ru/images/7/71/MTIKK_v12_a.jpg",
+                    "__typename": "Image"
+                },
+                {
+                    "thumbnail": "//ruranobe.ru/images/thumb/8/8c/mtikk_v01_0b459e57-908a-4bb7-ad43-e946c21af416_cover.jpg/240px-mtikk_v01_0b459e57-908a-4bb7-ad43-e946c21af416_cover.jpg",
+                    "url": "//ruranobe.ru/images/8/8c/mtikk_v01_0b459e57-908a-4bb7-ad43-e946c21af416_cover.jpg",
+                    "__typename": "Image"
+                }
+            ],
+            "persons": [
+                {
+                "role": "author",
+                "name": {
+                    "firstName": "Тацуноко",
+                    "lastName": "Таро",
+                    "__typename": "LangName"
+                },
+                "__typename": "TitlePerson"
+            }, {
+                "role": "illustrator",
+                "name": {
+                    "firstName": "Амано",
+                    "lastName": "Ю",
+                    "__typename": "LangName"
+                },
+                "__typename": "TitlePerson"
+            }],
+            "genres": [
+                {
+                "id": 3,
+                "type": "genre",
+                "nameRu": "Боевик",
+                "nameEng": "Action",
+                "__typename": "Genre"
+            }, {
+                "id": 10,
+                "type": "genre",
+                "nameRu": "Комедия",
+                "nameEng": "Comedy",
+                "__typename": "Genre"
+            }, {
+                "id": 21,
+                "type": "genre",
+                "nameRu": "Сверхъестественное",
+                "nameEng": "Supernatural",
+                "__typename": "Genre"
+            }, {
+                "id": 36,
+                "type": "genre",
+                "nameRu": "Фэнтези",
+                "nameEng": "Fantasy",
+                "__typename": "Genre"
+            }],
+            "tags": [
+                {
+                "id": 317,
+                "type": "tag",
+                "nameRu": "Божественная сила",
+                "nameEng": "Godly Powers",
+                "__typename": "Tag"
+            }, {
+                "id": 563,
+                "type": "tag",
+                "nameRu": "Главный герой сразу силён",
+                "nameEng": "Protagonist Strong from the Start",
+                "__typename": "Tag"
+            }, {
+                "id": 419,
+                "type": "tag",
+                "nameRu": "Главный герой — мужчина",
+                "nameEng": "Male Protagonist",
+                "__typename": "Tag"
+            }, {
+                "id": 10,
+                "type": "tag",
+                "nameRu": "Есть аниме-адаптация",
+                "nameEng": "Adapted to Anime",
+                "__typename": "Tag"
+            }, {
+                "id": 14,
+                "type": "tag",
+                "nameRu": "Есть манга-адаптация",
+                "nameEng": "Adapted to Manga",
+                "__typename": "Tag"
+            }, {
+                "id": 39,
+                "type": "tag",
+                "nameRu": "Зверолюди",
+                "nameEng": "Animal Characteristics",
+                "__typename": "Tag"
+            }, {
+                "id": 412,
+                "type": "tag",
+                "nameRu": "Магия",
+                "nameEng": "Magic",
+                "__typename": "Tag"
+            }, {
+                "id": 397,
+                "type": "tag",
+                "nameRu": "Маленькие девочки",
+                "nameEng": "Loli",
+                "__typename": "Tag"
+            }, {
+                "id": 475,
+                "type": "tag",
+                "nameRu": "Мифология",
+                "nameEng": "Mythology",
+                "__typename": "Tag"
+            }, {
+                "id": 512,
+                "type": "tag",
+                "nameRu": "Параллельные миры",
+                "nameEng": "Parallel Worlds",
+                "__typename": "Tag"
+            }, {
+                "id": 191,
+                "type": "tag",
+                "nameRu": "Повелитель демонов",
+                "nameEng": "Demon Lord",
+                "__typename": "Tag"
+            }, {
+                "id": 723,
+                "type": "tag",
+                "nameRu": "Попаданец в другой мир",
+                "nameEng": "Transported into Another World",
+                "__typename": "Tag"
+            }, {
+                "id": 669,
+                "type": "tag",
+                "nameRu": "Суперспособности",
+                "nameEng": "Special Abilities",
+                "__typename": "Tag"
+            }, {
+                "id": 135,
+                "type": "tag",
+                "nameRu": "Умный главный герой",
+                "nameEng": "Clever Protagonist",
+                "__typename": "Tag"
+            }, {
+                "id": 285,
+                "type": "tag",
+                "nameRu": "Фольклор",
+                "nameEng": "Folklore",
+                "__typename": "Tag"
+            }, {
+                "id": 683,
+                "type": "tag",
+                "nameRu": "Четкие любовные убеждения",
+                "nameEng": "Strong Love Interests",
+                "__typename": "Tag"
+            }],
+            "annotation": {
+                "text": "\n<p id=\"p0\">Cакамаки Изаёй, Кудо Аска и Касукабэ Йо обладают невероятными силами и скучают в обычном мире. Каждому из них прилетает письмо, и они, открыв свои письма, с удивлением обнаруживают, что попали в совершенно незнакомый мир. Их призвала Куро Усаги, чтобы помочь Сообществу \"Безымянное\" разгромить Демонических лордов.</p>",
+                "__typename": "Text"
+            },
+            "subprojects": {
+                "content": [{
+                    "id": -28,
+                    "title": null,
+                    "volumes": {
+                        "content": [{
+                            "url": "v1",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_01",
+                            "title": "Проблемные дети приходят из другого мира, верно? 1 Да! Куро Усаги призвала вас!",
+                            "type": "ranobe",
+                            "shortName": "Том 1",
+                            "status": "decor",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v2",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_02",
+                            "title": "Проблемные дети приходят из другого мира, верно? 2 Ах, Боже мой, обьявление войны от Демонического лорда?",
+                            "type": "ranobe",
+                            "shortName": "Том 2",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v3",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_03",
+                            "title": "Проблемные дети приходят из другого мира, верно? 3 Понятно... Призыв дракона.",
+                            "type": "ranobe",
+                            "shortName": "Том 3",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v4",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_04",
+                            "title": "Проблемные дети приходят из другого мира, верно? 4 Победить Тринадцатое солнце",
+                            "type": "ranobe",
+                            "shortName": "Том 4",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v5",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_05",
+                            "title": "Проблемные дети приходят из другого мира, верно? 5 Сошествие верховного правителя синих вод",
+                            "type": "ranobe",
+                            "shortName": "Том 5",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v6",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_06",
+                            "title": "Проблемные дети приходят из другого мира, верно? 6 Флаг Альянса \"Уроборос\"",
+                            "type": "ranobe",
+                            "shortName": "Том 6",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v7",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_07",
+                            "title": "Проблемные дети приходят из другого мира, верно? 7 Восходящее солнце и падающая луна",
+                            "type": "ranobe",
+                            "shortName": "Том 7",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v8",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_08",
+                            "title": "Проблемные дети приходят из другого мира, верно? 8 Жестокий трехголовый дракон",
+                            "type": "ranobe",
+                            "shortName": "Том 8",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ss1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ss2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ss3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ss4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v9",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_09",
+                            "title": "Проблемные дети приходят из другого мира, верно? 9 Да! Будни в Маленьком саду!",
+                            "type": "ranobe",
+                            "shortName": "Том 9",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v10",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_10",
+                            "title": "Проблемные дети приходят из другого мира, верно? 10 Тогда Кролик направляется в чистилище",
+                            "type": "ranobe",
+                            "shortName": "Том 10",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ss1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v11",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_11",
+                            "title": "Проблемные дети приходят из другого мира, верно? 11 Бей быстрее звездного света!",
+                            "type": "ranobe",
+                            "shortName": "Том 11",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "v12",
+                            "externalUrl": null,
+                            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_12",
+                            "title": "Проблемные дети приходят из другого мира, верно? 12 Консультация у бога войны!",
+                            "type": "ranobe",
+                            "shortName": "Том 12",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch9",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ap",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }],
+                        "__typename": "Volumes"
+                    },
+                    "__typename": "Subproject"
+                }, {
+                    "id": 45,
+                    "title": "Last Embryo",
+                    "volumes": {
+                        "content": [{
+                            "url": "LE1",
+                            "externalUrl": null,
+                            "file": "Last_Embryo_1",
+                            "title": "Последний эмбрион 1 Возвращение проблемных детей",
+                            "type": "ranobe",
+                            "shortName": "Том 1",
+                            "sпришествия",
+                            "type": "ranobe",
+                            "shortName": "Том 2",
+                            "status": "done",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch9",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }, {
+                            "url": "LE3",
+                            "externalUrl": null,
+                            "file": "Last_Embryo_3",
+                            "title": "Последний эмбрион 3 Вперёд, духовный поезд!",
+                            "type": "ranobe",
+                            "shortName": "Том 3",
+                            "status": "translating",
+                            "statusHint": null,
+                            "chapters": [{
+                                "url": "i",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "p",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch1",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch3",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch4",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch5",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch6",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch7",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch8",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch9",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "ch10",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "int2",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "e",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "a",
+                                "__typename": "Chapter"
+                            }, {
+                                "url": "at",
+                                "__typename": "Chapter"
+                            }],
+                            "__typename": "Volume"
+                        }],
+                        "__typename": "Volumes"
+                    },
+                    "__typename": "Subproject"
+                }],
+                "__typename": "Subprojects"
+            },
+            "requisites": null,
+            "updates": {
+                "content": [{
+                    "type": "publication",
+                    "showTime": "2020-03-13T17:55:30Z",
+                    "description": null,
+                    "url": "LE3/ch2",
+                    "title": "Последний эмбрион 3 Вперёд, духовный поезд!",
+                    "updated": "Глава 2",
+                    "shortUpdated": "Глава 2",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 2294,
+                    "chapterId": 21232,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2019-12-28T18:40:30Z",
+                    "description": null,
+                    "url": "LE3/ch1",
+                    "title": "Последний эмбрион 3 Вперёд, духовный поезд!",
+                    "updated": "Глава 1",
+                    "shortUpdated": "Глава 1",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 2294,
+                    "chapterId": 2 tatus ":"
+                    done ","
+                    statusHint ":null,"
+                    chapters ":[{"
+                    url ":"
+                    i ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch1 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch2 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch3 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch4 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch5 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch6 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch7 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch8 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    ch9 ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    a ","
+                    __typename ":"
+                    Chapter "},{"
+                    url ":"
+                    at ","
+                    __typename ":"
+                    Chapter "}],"
+                    __typename ":"
+                    Volume "},{"
+                    url ":"
+                    LE2 ","
+                    externalUrl ":null,"
+                    file ":"
+                    Last_Embryo_2 ","
+                    title ":"
+                    Последний эмбрион 2 Аватара второго 1231,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2019-12-28T18:40:30Z",
+                    "description": null,
+                    "url": "LE3/p",
+                    "title": "Последний эмбрион 3 Вперёд, духовный поезд!",
+                    "updated": "Пролог",
+                    "shortUpdated": "Пролог",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 2294,
+                    "chapterId": 21230,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2019-12-28T18:40:30Z",
+                    "description": null,
+                    "url": "LE3/i",
+                    "title": "Последний эмбрион 3 Вперёд, духовный поезд!",
+                    "updated": "Начальные иллюстрации",
+                    "shortUpdated": "Начальные иллюстрации",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 2294,
+                    "chapterId": 21229,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-09-10T16:48:00Z",
+                    "description": null,
+                    "url": "LE2",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Весь том",
+                    "shortUpdated": "Весь том",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": null,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-09-03T17:04:00Z",
+                    "description": null,
+                    "url": "LE2/ch9",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 9",
+                    "shortUpdated": "Глава 9",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15578,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-08-27T17:43:00Z",
+                    "description": null,
+                    "url": "LE2/ch8",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 8",
+                    "shortUpdated": "Глава 8",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15577,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-08-22T18:30:00Z",
+                    "description": null,
+                    "url": "LE2/ch7",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 7",
+                    "shortUpdated": "Глава 7",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15576,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-07-08T17:35:00Z",
+                    "description": null,
+                    "url": "LE2/ch6",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 6",
+                    "shortUpdated": "Глава 6",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15575,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-06-17T18:00:00Z",
+                    "description": null,
+                    "url": "LE2/ch5",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 5",
+                    "shortUpdated": "Глава 5",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15574,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-06-03T17:00:00Z",
+                    "description": null,
+                    "url": "LE2/ch4",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 4",
+                    "shortUpdated": "Глава 4",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15573,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-04-17T18:12:00Z",
+                    "description": null,
+                    "url": "LE2/ch3",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 3",
+                    "shortUpdated": "Глава 3",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15572,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2018-01-12T17:03:00Z",
+                    "description": null,
+                    "url": "LE2/ch2",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 2",
+                    "shortUpdated": "Глава 2",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15571,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2017-12-29T18:50:00Z",
+                    "description": null,
+                    "url": "LE2/ch1",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Глава 1",
+                    "shortUpdated": "Глава 1",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15570,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2017-12-29T18:50:00Z",
+                    "description": null,
+                    "url": "LE2/p",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Пролог",
+                    "shortUpdated": "Пролог",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15569,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2017-12-29T18:50:00Z",
+                    "description": null,
+                    "url": "LE2/i",
+                    "title": "Последний эмбрион 2 Аватара второго пришествия",
+                    "updated": "Начальные иллюстрации",
+                    "shortUpdated": "Начальные иллюстрации",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1906,
+                    "chapterId": 15568,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2017-09-03T18:00:00Z",
+                    "description": null,
+                    "url": "LE1/at",
+                    "title": "Последний эмбрион 1 Возвращение проблемных детей",
+                    "updated": "Послесловие команды",
+                    "shortUpdated": "Послесловие команды",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1890,
+                    "chapterId": 15315,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2017-09-03T18:00:00Z",
+                    "description": null,
+                    "url": "LE1/a",
+                    "title": "Последний эмбрион 1 Возвращение проблемных детей",
+                    "updated": "Послесловие",
+                    "shortUpdated": "Послесловие",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1890,
+                    "chapterId": 15314,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2017-09-03T18:00:00Z",
+                    "description": null,
+                    "url": "LE1/ch9",
+                    "title": "Последний эмбрион 1 Возвращение проблемных детей",
+                    "updated": "Глава 9",
+                    "shortUpdated": "Глава 9",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1890,
+                    "chapterId": 15313,
+                    "main": true,
+                    "__typename": "Update"
+                }, {
+                    "type": "publication",
+                    "showTime": "2017-09-03T18:00:00Z",
+                    "description": null,
+                    "url": "LE1/ch8",
+                    "title": "Последний эмбрион 1 Возвращение проблемных детей",
+                    "updated": "Глава 8",
+                    "shortUpdated": "Глава 8",
+                    "sectionId": null,
+                    "projectId": 28,
+                    "volumeId": 1890,
+                    "chapterId": 15312,
+                    "main": true,
+                    "__typename": "Update"
+                }],
+                "__typename": "Updates"
+            },
+            "__typename": "Project"
+        }
+    }
+}

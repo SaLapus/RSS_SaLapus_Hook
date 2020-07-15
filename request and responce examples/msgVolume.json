@@ -1,0 +1,280 @@
+{
+    "data": {
+        "project": {
+            "id": 28,
+            "title": "Проблемные дети приходят из другого мира, верно?",
+            "url": "mtikk",
+            "__typename": "Project"
+        },
+        "volume": {
+            "id": 195,
+            "url": "v1",
+            "externalUrl": null,
+            "file": "Mondaiji_tachi_ga_isekai_kara_kuru_soudesu_yo_01",
+            "title": "Проблемные дети приходят из другого мира, верно? 1 Да! Куро Усаги призвала вас!",
+            "titles": [
+                {
+                    "lang": "jp",
+                    "value": "問題児たちが異世界から来るそうですよ? YES! ウサギが呼びました!",
+                    "__typename": "Title"
+                },
+                {
+                    "lang": "en",
+                    "value": "Problem Children are Coming from Another World, aren't they? Yes! Kuro Usagi called you!",
+                    "__typename": "Title"
+                },
+                {
+                    "lang": "ru",
+                    "value": "Проблемные дети приходят из другого мира, верно? Да! Куро Усаги призвала вас!",
+                    "__typename": "Title"
+                }
+            ],
+            "type": "ranobe",
+            "shortName": "Том 1",
+            "lastUpdate": "2014-12-15T21:00:00Z",
+            "status": "decor",
+            "statusHint": null,
+            "staff": [
+                {
+                    "memberId": 35,
+                    "userId": 6,
+                    "nickname": "Rezel",
+                    "team": {
+                        "id": 1,
+                        "name": "RuRa-team",
+                        "website": null,
+                        "__typename": "Team"
+                    },
+                    "teamShowLabel": false,
+                    "activityName": "Перевод с английского",
+                    "activityType": "text",
+                    "__typename": "Worker"
+                },
+                {
+                    "memberId": 61,
+                    "userId": 51,
+                    "nickname": "Kandaru",
+                    "team": {
+                        "id": 1,
+                        "name": "RuRa-team",
+                        "website": null,
+                        "__typename": "Team"
+                    },
+                    "teamShowLabel": false,
+                    "activityName": "Редактура",
+                    "activityType": "text",
+                    "__typename": "Worker"
+                },
+                {
+                    "memberId": 66,
+                    "userId": 3,
+                    "nickname": "Starcheater",
+                    "team": {
+                        "id": 1,
+                        "name": "RuRa-team",
+                        "website": null,
+                        "__typename": "Team"
+                    },
+                    "teamShowLabel": false,
+                    "activityName": "Работа с иллюстрациями",
+                    "activityType": "image",
+                    "__typename": "Worker"
+                },
+                {
+                    "memberId": 76,
+                    "userId": 460,
+                    "nickname": "krass09",
+                    "team": {
+                        "id": 1,
+                        "name": "RuRa-team",
+                        "website": null,
+                        "__typename": "Team"
+                    },
+                    "teamShowLabel": false,
+                    "activityName": "Перевод иллюстраций",
+                    "activityType": "image",
+                    "__typename": "Worker"
+                },
+                {
+                    "memberId": 87,
+                    "userId": null,
+                    "nickname": "Moxnat",
+                    "team": {
+                        "id": 1,
+                        "name": "RuRa-team",
+                        "website": null,
+                        "__typename": "Team"
+                    },
+                    "teamShowLabel": false,
+                    "activityName": "Работа с иллюстрациями",
+                    "activityType": "image",
+                    "__typename": "Worker"
+                }
+            ],
+            "teams": [
+                {
+                    "team": {
+                        "id": 1,
+                        "name": "RuRa-team",
+                        "website": null,
+                        "__typename": "Team"
+                    },
+                    "prefix": null,
+                    "suffix": null,
+                    "__typename": "WorkerTeam"
+                }
+            ],
+            "isbn": "978-4044748395",
+            "annotation": null,
+            "covers": [
+                {
+                    "thumbnail": "//ruranobe.ru/images/thumb/e/e1/MTIKK_v01_a.jpg/240px-MTIKK_v01_a.jpg",
+                    "url": "//ruranobe.ru/images/e/e1/MTIKK_v01_a.jpg",
+                    "__typename": "Image"
+                }
+            ],
+            "chapters": [
+                {
+                    "id": 3451,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "i",
+                    "title": "Начальные иллюстрации",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3452,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "p",
+                    "title": "Пролог",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3453,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "ch1",
+                    "title": "Глава 1",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3454,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "ch2",
+                    "title": "Глава 2",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3455,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "ch3",
+                    "title": "Глава 3",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3456,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "ch4",
+                    "title": "Глава 4",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3457,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "ch5",
+                    "title": "Глава 5",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3458,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "ch6",
+                    "title": "Глава 6",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3459,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "ch7",
+                    "title": "Глава 7",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3460,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "ch8",
+                    "title": "Глава 8",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3461,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "e",
+                    "title": "Эпилог",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3462,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "a",
+                    "title": "Послесловие",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                },
+                {
+                    "id": 3463,
+                    "parentChapterId": null,
+                    "volumeId": 195,
+                    "url": "at",
+                    "title": "Послесловие команды",
+                    "publishDate": "2016-01-16T01:40:00Z",
+                    "published": true,
+                    "__typename": "Chapter"
+                }
+            ],
+            "next": {
+                "volumeId": 198,
+                "url": "v2",
+                "title": "Проблемные дети приходят из другого мира, верно? 2 Ах, Боже мой, обьявление войны от Демонического лорда?",
+                "shortTitle": "Том 2",
+                "__typename": "VolumeRef"
+            },
+            "prev": null,
+            "topicId": 141,
+            "__typename": "Volume"
+        }
+    }
+}

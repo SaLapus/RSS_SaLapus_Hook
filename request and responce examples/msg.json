@@ -1,0 +1,626 @@
+{
+    "data": {
+        "project": {
+            "id": 196,
+            "title": "BlazBlue",
+            "url": "blazblue",
+            "genres": [
+                {
+                "id": 42,
+                "type": "genre",
+                "nameRu": "Магия",
+                "nameEng": "Magic",
+                "__typename": "Genre"
+            }, {
+                "id": 21,
+                "type": "genre",
+                "nameRu": "Сверхъестественное",
+                "nameEng": "Supernatural",
+                "__typename": "Genre"
+            }, {
+                "id": 36,
+                "type": "genre",
+                "nameRu": "Фэнтези",
+                "nameEng": "Fantasy",
+                "__typename": "Genre"
+            }],
+            "tags": [
+                {
+                "id": 14,
+                "type": "tag",
+                "nameRu": "Есть манга-адаптация",
+                "nameEng": "Adapted to Manga",
+                "__typename": "Tag"
+            }, {
+                "id": 72,
+                "type": "tag",
+                "nameRu": "Основано на видеоигре",
+                "nameEng": "Based on a Video Game",
+                "__typename": "Tag"
+            }],
+            "requisites": {
+                "title": "На развитие RuRanobe",
+                "qiwi": "+79116857099",
+                "wmr": "R125820793397",
+                "wmu": "U911921912420",
+                "wmz": "Z608138208963",
+                "wme": "E656434626499",
+                "wmb": null,
+                "wmg": null,
+                "wmk": null,
+                "wmx": null,
+                "yandex": "410012692832515",
+                "showYandexMoneyButton": true,
+                "showYandexCardButton": true,
+                "showYandexMobileButton": false,
+                "paypal": "paypal@ruranobe.ru",
+                "paypalButtonId": "LMLKD2SR2FLMA",
+                "card": "4890494582313128",
+                "bitcoin": null,
+                "patreonUrl": null,
+                "patreonBePatronUserId": null,
+                "__typename": "Requisites"
+            },
+            "__typename": "Project"
+        },
+        "volume": {
+            "id": 1174,
+            "url": "v0",
+            "externalUrl": null,
+            "file": "BlazBlue_Phase_0",
+            "title": "BlazBlue: Phase 0",
+            "titles": [
+                {
+                "lang": "jp",
+                "value": "ブレイブルーフェーズ0",
+                "__typename": "Title"
+            }, {
+                "lang": "romaji",
+                "value": "BureiBurū: Fēzu Zero",
+                "__typename": "Title"
+            }, {
+                "lang": "en",
+                "value": "BlazBlue: Phase 0",
+                "__typename": "Title"
+            }, {
+                "lang": "ru",
+                "value": "Лазурный гримуар: Нулевая фаза",
+                "__typename": "Title"
+            }],
+            "persons": [
+                {
+                "role": "author",
+                "name": {
+                    "firstName": "Комао",
+                    "lastName": "Мако",
+                    "__typename": "LangName"
+                },
+                "__typename": "TitlePerson"
+            }, {
+                "role": "illustrator",
+                "name": {
+                    "firstName": "Като",
+                    "lastName": "Юки",
+                    "__typename": "LangName"
+                },
+                "__typename": "TitlePerson"
+            }, {
+                "role": "original_story",
+                "name": {
+                    "firstName": "Мори",
+                    "lastName": "Тосимити",
+                    "__typename": "LangName"
+                },
+                "__typename": "TitlePerson"
+            }, {
+                "role": "original_design",
+                "name": {
+                    "firstName": "Arc",
+                    "lastName": "System Works",
+                    "__typename": "LangName"
+                },
+                "__typename": "TitlePerson"
+            }],
+            "type": "ranobe",
+            "shortName": "Том 0",
+            "lastUpdate": "2018-11-22T19:00:00Z",
+            "status": "done",
+            "statusHint": null,
+            "staff": [{
+                "memberId": 291,
+                "userId": 3575,
+                "nickname": "Inoriol",
+                "team": {
+                    "id": 1,
+                    "name": "RuRa-team",
+                    "website": null,
+                    "__typename": "Team"
+                },
+                "teamShowLabel": false,
+                "activityName": "Перевод с английского",
+                "activityType": "text",
+                "__typename": "Worker"
+            }, {
+                "memberId": 122,
+                "userId": 2114,
+                "nickname": "SnipeR_02",
+                "team": {
+                    "id": 1,
+                    "name": "RuRa-team",
+                    "website": null,
+                    "__typename": "Team"
+                },
+                "teamShowLabel": false,
+                "activityName": "Редактура",
+                "activityType": "text",
+                "__typename": "Worker"
+            }, {
+                "memberId": 4517,
+                "userId": 3200,
+                "nickname": "kamikadse",
+                "team": {
+                    "id": 1,
+                    "name": "RuRa-team",
+                    "website": null,
+                    "__typename": "Team"
+                },
+                "teamShowLabel": false,
+                "activityName": "Редактура",
+                "activityType": "text",
+                "__typename": "Worker"
+            }, {
+                "memberId": 140,
+                "userId": 2312,
+                "nickname": "Лесса",
+                "team": {
+                    "id": 1,
+                    "name": "RuRa-team",
+                    "website": null,
+                    "__typename": "Team"
+                },
+                "teamShowLabel": false,
+                "activityName": "Редактура",
+                "activityType": "text",
+                "__typename": "Worker"
+            }, {
+                "memberId": 10217,
+                "userId": null,
+                "nickname": "RandomMac",
+                "team": null,
+                "teamShowLabel": false,
+                "activityName": "Вычитка",
+                "activityType": "text",
+                "__typename": "Worker"
+            }, {
+                "memberId": 144,
+                "userId": null,
+                "nickname": "Undecimus",
+                "team": {
+                    "id": 1,
+                    "name": "RuRa-team",
+                    "website": null,
+                    "__typename": "Team"
+                },
+                "teamShowLabel": false,
+                "activityName": "Контроль качества",
+                "activityType": "text",
+                "__typename": "Worker"
+            }, {
+                "memberId": 4859,
+                "userId": 25139,
+                "nickname": "AEBus",
+                "team": {
+                    "id": 1,
+                    "name": "RuRa-team",
+                    "website": null,
+                    "__typename": "Team"
+                },
+                "teamShowLabel": false,
+                "activityName": "Рeтушь иллюстраций",
+                "activityType": "image",
+                "__typename": "Worker"
+            }],
+            "teams": [{
+                "team": {
+                    "id": 1,
+                    "name": "RuRa-team",
+                    "website": null,
+                    "__typename": "Team"
+                },
+                "prefix": null,
+                "suffix": null,
+                "__typename": "WorkerTeam"
+            }],
+            "isbn": "978-4829145920",
+            "annotation": {
+                "text": "\n<p id=\"p0\">Рагна Бладэдж. Человек, которого называют «Тёмным жнецом», тот, кто обладает «Лазурным гримуаром». Но почему-то он приходит в себя в незнакомом месте, потеряв как память, так и силу Лазури.</p>\n<p id=\"p1\">В этом новом для себя мире Рагна сталкивается с Селикой, девушкой, способной использовать исцеляющую магию, и воином-зверолюдом по имени Мицуёси. Их путешествие будет связано с Чёрным зверем — существом, почти уничтожившим человечество. Однако...</p>\n<p id=\"p2\">Предыстория популярной серии файтинговых игр BlazBlue готова приоткрыться перед вами в официальном ранобэ!</p>",
+                "__typename": "Text"
+            },
+            "covers": [{
+                "thumbnail": "//ruranobe.ru/images/thumb/a/a0/blazblue_v0_31e691f4-995a-486d-9fdc-b3803921c0b0_BB_v00_a.png/240px-blazblue_v0_31e691f4-995a-486d-9fdc-b3803921c0b0_BB_v00_a.jpg",
+                "url": "//ruranobe.ru/images/a/a0/blazblue_v0_31e691f4-995a-486d-9fdc-b3803921c0b0_BB_v00_a.png",
+                "__typename": "Image"
+            }, {
+                "thumbnail": "//ruranobe.ru/images/thumb/e/e3/blazblue_v0_89f006a3-5767-4933-8d6d-939029c104e3_BB_v00_ajp.jpg/240px-blazblue_v0_89f006a3-5767-4933-8d6d-939029c104e3_BB_v00_ajp.jpg",
+                "url": "//ruranobe.ru/images/e/e3/blazblue_v0_89f006a3-5767-4933-8d6d-939029c104e3_BB_v00_ajp.jpg",
+                "__typename": "Image"
+            }],
+            "chapters": [{
+                "id": 9940,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "i",
+                "title": "Начальные иллюстрации",
+                "publishDate": "2016-08-18T01:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9941,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "p",
+                "title": "Пролог",
+                "publishDate": "2016-08-18T01:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9943,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "ch1",
+                "title": "Глава 1: Потерянная белизна",
+                "publishDate": "2016-08-18T01:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9944,
+                "parentChapterId": 9943,
+                "volumeId": 1174,
+                "url": "ch1#c9943-p1",
+                "title": "Часть 1",
+                "publishDate": "2016-08-18T14:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9945,
+                "parentChapterId": 9943,
+                "volumeId": 1174,
+                "url": "ch1#c9943-p2",
+                "title": "Часть 2",
+                "publishDate": "2017-02-19T18:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9946,
+                "parentChapterId": 9943,
+                "volumeId": 1174,
+                "url": "ch1#c9943-p3",
+                "title": "Часть 3",
+                "publishDate": "2017-02-27T20:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9947,
+                "parentChapterId": 9943,
+                "volumeId": 1174,
+                "url": "ch1#c9943-p4",
+                "title": "Часть 4",
+                "publishDate": "2017-02-27T20:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9948,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "ch2",
+                "title": "Глава 2: Чернота разрушений",
+                "publishDate": "2017-03-13T00:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9949,
+                "parentChapterId": 9948,
+                "volumeId": 1174,
+                "url": "ch2#c9948-p1",
+                "title": "Часть 1",
+                "publishDate": "2017-03-13T00:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9950,
+                "parentChapterId": 9948,
+                "volumeId": 1174,
+                "url": "ch2#c9948-p2",
+                "title": "Часть 2",
+                "publishDate": "2017-03-16T02:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9951,
+                "parentChapterId": 9948,
+                "volumeId": 1174,
+                "url": "ch2#c9948-p3",
+                "title": "Часть 3",
+                "publishDate": "2017-04-14T02:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9952,
+                "parentChapterId": 9948,
+                "volumeId": 1174,
+                "url": "ch2#c9948-p4",
+                "title": "Часть 4",
+                "publishDate": "2017-04-18T02:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9953,
+                "parentChapterId": 9948,
+                "volumeId": 1174,
+                "url": "ch2#c9948-p5",
+                "title": "Часть 5",
+                "publishDate": "2017-04-22T21:10:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9954,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "ch3",
+                "title": "Глава 3: Краснота реальности",
+                "publishDate": "2017-05-24T18:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9955,
+                "parentChapterId": 9954,
+                "volumeId": 1174,
+                "url": "ch3#c9954-p1",
+                "title": "Часть 1",
+                "publishDate": "2017-05-24T18:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9956,
+                "parentChapterId": 9954,
+                "volumeId": 1174,
+                "url": "ch3#c9954-p2",
+                "title": "Часть 2",
+                "publishDate": "2017-05-24T18:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9957,
+                "parentChapterId": 9954,
+                "volumeId": 1174,
+                "url": "ch3#c9954-p3",
+                "title": "Часть 3",
+                "publishDate": "2017-05-24T18:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9958,
+                "parentChapterId": 9954,
+                "volumeId": 1174,
+                "url": "ch3#c9954-p4",
+                "title": "Часть 4",
+                "publishDate": "2017-05-24T18:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9959,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "ch4",
+                "title": "Глава 4: Случайно встреченное серебро",
+                "publishDate": "2017-05-25T19:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9960,
+                "parentChapterId": 9959,
+                "volumeId": 1174,
+                "url": "ch4#c9959-p1",
+                "title": "Часть 1",
+                "publishDate": "2017-05-25T19:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9961,
+                "parentChapterId": 9959,
+                "volumeId": 1174,
+                "url": "ch4#c9959-p2",
+                "title": "Часть 2",
+                "publishDate": "2017-05-26T19:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9962,
+                "parentChapterId": 9959,
+                "volumeId": 1174,
+                "url": "ch4#c9959-p3",
+                "title": "Часть 3",
+                "publishDate": "2017-05-27T19:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9963,
+                "parentChapterId": 9959,
+                "volumeId": 1174,
+                "url": "ch4#c9959-p4",
+                "title": "Часть 4",
+                "publishDate": "2017-05-28T16:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9964,
+                "parentChapterId": 9959,
+                "volumeId": 1174,
+                "url": "ch4#c9959-p5",
+                "title": "Часть 5",
+                "publishDate": "2017-05-29T19:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9965,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "ch5",
+                "title": "Глава 5: Запечатанная зелень",
+                "publishDate": "2017-05-30T19:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9966,
+                "parentChapterId": 9965,
+                "volumeId": 1174,
+                "url": "ch5#c9965-p1",
+                "title": "Часть 1",
+                "publishDate": "2017-05-30T19:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9967,
+                "parentChapterId": 9965,
+                "volumeId": 1174,
+                "url": "ch5#c9965-p2",
+                "title": "Часть 2",
+                "publishDate": "2017-05-31T19:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9968,
+                "parentChapterId": 9965,
+                "volumeId": 1174,
+                "url": "ch5#c9965-p3",
+                "title": "Часть 3",
+                "publishDate": "2017-06-03T19:40:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9969,
+                "parentChapterId": 9965,
+                "volumeId": 1174,
+                "url": "ch5#c9965-p4",
+                "title": "Часть 4",
+                "publishDate": "2017-06-04T15:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9970,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "ch6",
+                "title": "Глава 6: Обещанная лазурь",
+                "publishDate": "2017-06-04T21:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9971,
+                "parentChapterId": 9970,
+                "volumeId": 1174,
+                "url": "ch6#c9970-p1",
+                "title": "Часть 1",
+                "publishDate": "2017-06-04T21:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9972,
+                "parentChapterId": 9970,
+                "volumeId": 1174,
+                "url": "ch6#c9970-p2",
+                "title": "Часть 2",
+                "publishDate": "2017-06-05T20:10:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9973,
+                "parentChapterId": 9970,
+                "volumeId": 1174,
+                "url": "ch6#c9970-p3",
+                "title": "Часть 3",
+                "publishDate": "2017-06-06T19:30:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9974,
+                "parentChapterId": 9970,
+                "volumeId": 1174,
+                "url": "ch6#c9970-p4",
+                "title": "Часть 4",
+                "publishDate": "2017-06-07T20:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9975,
+                "parentChapterId": 9970,
+                "volumeId": 1174,
+                "url": "ch6#c9970-p5",
+                "title": "Часть 5",
+                "publishDate": "2017-06-09T19:50:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9976,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "ep",
+                "title": "Эпилог",
+                "publishDate": "2017-06-09T22:00:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 9977,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "a",
+                "title": "Послесловие",
+                "publishDate": "2017-06-10T09:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }, {
+                "id": 14350,
+                "parentChapterId": null,
+                "volumeId": 1174,
+                "url": "at",
+                "title": "Послесловие переводчика",
+                "publishDate": "2017-06-10T09:20:00Z",
+                "published": true,
+                "__typename": "Chapter"
+            }],
+            "next": {
+                "volumeId": 1177,
+                "url": "v1",
+                "title": "BlazBlue: Phase Shift 1",
+                "shortTitle": "Том 1",
+                "__typename": "VolumeRef"
+            },
+            "prev": null,
+            "requisites": {
+                "title": "На развитие RuRanobe",
+                "qiwi": "+79116857099",
+                "wmr": "R125820793397",
+                "wmu": "U911921912420",
+                "wmz": "Z608138208963",
+                "wme": "E656434626499",
+                "wmb": null,
+                "wmg": null,
+                "wmk": null,
+                "wmx": null,
+                "yandex": "410012692832515",
+                "showYandexMoneyButton": true,
+                "showYandexCardButton": true,
+                "showYandexMobileButton": false,
+                "paypal": "paypal@ruranobe.ru",
+                "paypalButtonId": "LMLKD2SR2FLMA",
+                "card": "4890494582313128",
+                "bitcoin": null,
+                "patreonUrl": null,
+                "patreonBePatronUserId": null,
+                "__typename": "Requisites"
+            },
+            "topicId": 623,
+            "__typename": "Volume"
+        }
+    }
+}

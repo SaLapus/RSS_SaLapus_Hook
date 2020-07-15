@@ -1,0 +1,166 @@
+query Volume($url: String) {
+    project(project: { fullUrl: $url }) {
+        id
+        title
+        url
+        genres {
+            id
+            type
+            nameRu
+            nameEng
+            __typename
+        }
+        tags {
+            id
+            type
+            nameRu
+            nameEng
+            __typename
+        }
+        requisites {
+            title
+            qiwi
+            wmr
+            wmu
+            wmz
+            wme
+            wmb
+            wmg
+            wmk
+            wmx
+            yandex
+            showYandexMoneyButton
+            showYandexCardButton
+            showYandexMobileButton
+            paypal
+            paypalButtonId
+            card
+            bitcoin
+            patreonUrl
+            patreonBePatronUserId
+            __typename
+        }
+        __typename
+    }
+    volume(volume: { fullUrl: $url }) {
+        id
+        url
+        externalUrl
+        file
+        title
+        titles(
+            langs: ["jp", "cn", "romaji", "translit", "pinyin", "en", "ru", "*"]
+        ) {
+            lang
+            value
+            __typename
+        }
+        persons(
+            langs: ["ru", "en", "*"]
+            roles: [
+                "author"
+                "illustrator"
+                "original_story"
+                "original_design"
+            ]
+        ) {
+            role
+            name {
+                firstName
+                lastName
+                __typename
+            }
+            __typename
+        }
+        type
+        shortName
+        lastUpdate
+        status
+        statusHint
+        staff {
+            memberId
+            userId
+            nickname
+            team {
+                id
+                name
+                website
+                __typename
+            }
+            teamShowLabel
+            activityName
+            activityType
+            __typename
+        }
+        teams {
+            team {
+                id
+                name
+                website
+                __typename
+            }
+            prefix
+            suffix
+            __typename
+        }
+        isbn
+        annotation {
+            text
+            __typename
+        }
+        covers {
+            thumbnail(width: 240)
+            url
+            __typename
+        }
+        chapters {
+            id
+            parentChapterId
+            volumeId
+            url
+            title
+            publishDate
+            published
+            __typename
+        }
+        next {
+            volumeId
+            url
+            title
+            shortTitle
+            __typename
+        }
+        prev {
+            volumeId
+            url
+            title
+            shortTitle
+            __typename
+        }
+        requisites {
+            title
+            qiwi
+            wmr
+            wmu
+            wmz
+            wme
+            wmb
+            wmg
+            wmk
+            wmx
+            yandex
+            showYandexMoneyButton
+            showYandexCardButton
+            showYandexMobileButton
+            paypal
+            paypalButtonId
+            card
+            bitcoin
+            patreonUrl
+            patreonBePatronUserId
+            __typename
+        }
+        topicId
+        __typename
+    }
+}
